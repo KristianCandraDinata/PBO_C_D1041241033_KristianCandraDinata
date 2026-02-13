@@ -11,12 +11,12 @@ public class LatihDataMahasiswa {
         int sks = 72;
 
         //Menampilkan nilai semua variabel
-        System.out.println("NIM             : " + nim);
-        System.out.println("Nama            : " + nama);
-        System.out.println("Kelas           : " + kelas);
-        System.out.println("Status Aktif    : " + statusAktif);
-        System.out.println("IPK Semester    : " + ipk);
-        System.out.println("Total SKS       : " + sks);
+        System.out.println("NIM            : " + nim);
+        System.out.println("Nama           : " + nama);
+        System.out.println("Kelas          : " + kelas);
+        System.out.println("Status Aktif   : " + statusAktif);
+        System.out.println("IPK Semester   : " + ipk);
+        System.out.println("Total SKS      : " + sks);
          
     }
 }
